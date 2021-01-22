@@ -39,15 +39,23 @@
 const ujwal = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "C++", "C"],
-    askMeAbout: ["web dev", "tech", "app dev", "desktop app" ,"music lover"],
-    technologies: {
-        mobileApp: ["React Native"],
-        frontEnd: {
-            js: ["Reactjs", "Electron js"],
-            css: ["materialize", "bootstrap"]
-        },
-        devOps: ["AWS", "Route53", "Nginx"],
-        misc: ["Firebase", "Socket.IO", "webRTC", "Voxeet", "PM2", "Wordpress"]
+    askMeAbout: ["web dev", "tech", "app dev", "desktop app"],
+    technologies: {        
+            "languages": [ "C", "C++", "Python", "Java", "C#", "JavaScript",
+                   "TypeScript", "Go", "Dart", "Rust", "Bash", "YAML",
+                   "SQL", "HTML", "CSS", "PHP", "x86 Assembly" ],
+            "web": ["React","jQuery", "Axios","WebPack", "Babel", "Bootstrap", "Materialize CSS",
+                     "WordPress" ],
+            "applications": ["Adobe CC", "Microsoft Office" ],
+            "mathematicsAndStatistics": ["MATLAB", "Mathematical" ],
+            "toolchains": ["NPM" ],
+            "devOps": [ "Git","Gitlab CI" ],
+            "cloudOps": [ "AWS"],
+            "operatingSystems": [ "Windows" ,"GNU/Linux"],
+            "mobile": [ "React Native","Firebase" ],
+            "desktop" : ["Electron js"],
+            "editors": [ "VSCode"],
+            "misc": ["Nginx", "Socket.IO", "webRTC", "Voxeet", "PM2", "Wordpress"]
     },
     currentProject: "I am developing desktop app using Electron JS",
     funFact: "There are two ways to write error-free programs; only the third one works"
