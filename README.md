@@ -47,7 +47,7 @@ const ujwal = {
             css: ["materialize", "bootstrap"]
         },
         devOps: ["AWS", "Route53", "Nginx"],
-        misc: ["Firebase", "Socket.IO", "webRTC", "Voxeet"]
+        misc: ["Firebase", "Socket.IO", "webRTC", "Voxeet", "PM2"]
     },
     currentProject: "I am developing desktop app using Electron JS",
     funFact: "There are two ways to write error-free programs; only the third one works"
