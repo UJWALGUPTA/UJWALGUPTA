@@ -36,7 +36,7 @@
 ### Languages and Tools: 
 
 ```javascript
-const anmol = {
+const ujwal = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "C++", "C"],
     askMeAbout: ["web dev", "tech", "app dev", "desktop app" ,"music lover"],
@@ -44,7 +44,7 @@ const anmol = {
         mobileApp: ["React Native"],
         frontEnd: {
             js: ["Reactjs", "Electron js"],
-            css: ["materialize", "vuetify", "bootstrap"]
+            css: ["materialize", "bootstrap"]
         },
         devOps: ["AWS", "Route53", "Nginx"],
         misc: ["Firebase", "Socket.IO", "webRTC", "Voxeet"]
