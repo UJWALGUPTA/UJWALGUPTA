@@ -41,9 +41,8 @@ const ujwal = {
     code: ["Javascript", "Typescript", "C++", "C"],
     askMeAbout: ["web dev", "tech", "app dev", "desktop app"],
     technologies: {        
-            "languages": [ "C", "C++", "Python", "Java", "C#", "JavaScript",
-                   "TypeScript", "Go", "Dart", "Rust", "Bash", "YAML",
-                   "SQL", "HTML", "CSS", "PHP", "x86 Assembly" ],
+            "languages": [ "C", "C++", "Python", "Java", "JavaScript",
+                          "HTML", "CSS"],
             "web": ["React","jQuery", "Axios","WebPack", "Babel", "Bootstrap", "Materialize CSS",
                      "WordPress" ],
             "applications": ["Adobe CC", "Microsoft Office" ],
