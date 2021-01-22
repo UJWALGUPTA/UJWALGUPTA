@@ -60,17 +60,19 @@
 <br>
 <br>
 <br>
-
+<!--
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sumanth-Talluri&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
 </p>
+-->
 
 <br>
+<!--
 
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=radical">
-</p>
-
+</p> 
+-->
 <!-- stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=dark)
 ![Sumanth's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true")-->
@@ -89,10 +91,11 @@
 
 <br>
 
-📊 **This week I spent my time on**
+
+<!--📊 **This week I spent my time on** -->
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+<!-- No Activity tracked this Week -->
 ```
 <!--END_SECTION:waka-->
 
@@ -104,10 +107,10 @@ No Activity tracked this Week
 
 #### Thank You-🙏🏼
 
-⭐️ From [Sumanth-Talluri](https://github.com/Sumanth-Talluri)
+⭐️ From [Ujwal](https://github.com/UJWALGUPTA)
 
 <!--[website]: -->
 [twitter]: https://twitter.com/sumanth_98?s=09
 <!--[youtube]: https://www.youtube.com/channel/UC40R8Rvwjhu08Z0MFffNfsg-->
-[instagram]: https://instagram.com/the.cs.geek?igshid=1mamru7aa53b2
-[linkedin]: https://www.linkedin.com/in/sai-sumanth-talluri-3b7811141
+<!--[instagram]: https://instagram.com/the.cs.geek?igshid=1mamru7aa53b2-->
+[linkedin]: https://www.linkedin.com/in/ujwal-gupta
