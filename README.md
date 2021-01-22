@@ -21,7 +21,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
-### I am CTO at <a href="https://www.talkie.team> Talkie </a>
+### I am CTO at Talkie 
 - 🔭 I’m currently working on my Portfolio Website :grin:
 - 🌱 I’m currently learning MERN Stack Development.
 - 👯 I’m looking to collaborate with other Developers :wink:
