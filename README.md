@@ -21,11 +21,11 @@
 
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
-### I am CTO at Talkie 
-- 🔭 I’m currently working on my Portfolio Website :grin:
-- 🌱 I’m currently learning MERN Stack Development.
+### I am software engineer
+- 🔭 I’m currently working on my web3 side project Deefy :grin:
+- 🌱 I’m currently learning Rust.
 - 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2021 Goals: Contribute to Open Source projects
+- 🥅 2022 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 - 🧗 I try to: Go beyond and push the bounds
@@ -38,8 +38,8 @@
 ```javascript
 const ujwal = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "C++", "C"],
-    askMeAbout: ["web dev", "tech", "app dev", "desktop app"],
+    code: ["Javascript", "Typescript", "C++", "C", "Solidity"],
+    askMeAbout: ["web dev", "tech", "app dev", "desktop app","Blockchain dev"],
     technologies: {        
             "languages": [ "C", "C++", "Python", "Java", "JavaScript",
                           "HTML", "CSS"],
@@ -49,14 +49,14 @@ const ujwal = {
             "mathematicsAndStatistics": ["MATLAB", "Mathematical" ],
             "toolchains": ["NPM" ],
             "devOps": [ "Git","Gitlab CI" ],
-            "cloudOps": [ "AWS"],
+            "cloudOps": [ "AWS","GCP"],
             "operatingSystems": [ "Windows" ,"GNU/Linux"],
             "mobile": [ "React Native","Firebase" ],
             "desktop" : ["Electron js"],
             "editors": [ "VSCode"],
-            "misc": ["Nginx", "Socket.IO", "webRTC", "Voxeet", "PM2", "Wordpress"]
+            "misc": ["Nginx", "Socket.IO", "webRTC", "Voxeet", "PM2", "Wordpress","Webflow", "PHP"]
     },
-    currentProject: "I am developing desktop app using Electron JS",
+    currentProject: "I am developing a defi protocol",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
